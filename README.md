@@ -17,4 +17,6 @@ Run the following commands from your terminal:
 <img src="https://user-images.githubusercontent.com/81965333/209645690-916ea243-6799-42ab-a504-31a1a54a57c1.png" width = 300>     <img src="https://user-images.githubusercontent.com/81965333/209645694-64eacefc-75b9-49f3-9f76-b593de47183d.png" width = 300>      <img src="https://user-images.githubusercontent.com/81965333/209645697-2311d181-5c21-4de4-b9a4-ea0b99784921.png" width = 300>
 
 
-<img src="https://user-images.githubusercontent.com/81965333/209645701-4aa0af91-e3cc-459c-a979-ccf8dec0fa91.png" width=300>       <img src="https://user-images.githubusercontent.com/81965333/209646879-24cc60aa-e0bb-4d7b-ad52-0a16ccd985c7.png" width=300><img src = "https://user-images.githubusercontent.com/81965333/209646884-770c1294-7b2b-40d5-bb7e-a8a17d829fbc.png" width=300>
+<img src="https://user-images.githubusercontent.com/81965333/209645701-4aa0af91-e3cc-459c-a979-ccf8dec0fa91.png" width=300>       <img src="https://user-images.githubusercontent.com/81965333/209646879-24cc60aa-e0bb-4d7b-ad52-0a16ccd985c7.png" width=600>
+
+<img src = "https://user-images.githubusercontent.com/81965333/209646884-770c1294-7b2b-40d5-bb7e-a8a17d829fbc.png" width=600>
